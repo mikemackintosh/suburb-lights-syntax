@@ -1,0 +1,30 @@
+{
+  "name": "suburb-lights-syntax",
+  "theme": "syntax",
+  "version": "0.3.1",
+  "author": {
+    "name": "Mike Mackintosh"
+  },
+  "description": "The suburb Lights Syntax Theme is a breathtaking dark syntax theme designed with focus in mind. A fork from city-lights-syntax.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "suburblights",
+    "suburb lights",
+    "darktheme",
+    "dark theme",
+    "suburb-lights-ui",
+    "suburb-lights-syntax",
+    "suburb-lights-icons",
+    "citylights",
+    "city lights",
+    "city-lights-ui",
+    "city-lights-syntax",
+    "city-lights-icons"
+  ],
+  "repository": "https://github.com/mikemackintosh/suburb-lights-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
