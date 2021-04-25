@@ -1,6 +1,8 @@
 # Suburb Lights Syntax Theme
 
-![Preview](.github/preview.png)
+<p align="center">
+  <img width="600px" src="https://github.com/mikemackintosh/suburb-lights-syntax/raw/master/.github/preview.png">
+</p>
 
 The Suburb Lights Syntax Theme is a breathtaking dark syntax theme, based on the City Lights Syntax Theme.
 
